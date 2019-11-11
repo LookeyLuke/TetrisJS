@@ -1,0 +1,25 @@
+body{
+    background-color:#737373;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.canvas_wrap{
+    display:block;
+    margin:0 auto;
+    padding-top:25px;
+}
+.canvas_wrap>*{
+    display:block;
+    margin:0 auto;
+    border: 1px solid #ffffff;
+}
+.canvas_wrap>button{
+    font-family: "Comic Sans MS";
+    font-size:30px;
+    font-weight:bold;
+    border:none;
+    background-color:#ffffff;
+    color:#000000;
+}
